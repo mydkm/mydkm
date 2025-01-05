@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mydkm
-- 👀 I’m interested in ... alternative compression techniques for large-scale llm's
-- 🌱 I’m currently learning ... mechanical engineering
-- 💞️ I’m looking to collaborate on ... some kick-ass projects
-- 📫 How to reach me ... email me through the email on my profile
+- 👀 I’m interested in ... alternative compression techniques for large-scale LLM's
+- 🌱 I’m currently learning ... Mechanical Engineering
+- 💞️ I’m looking to collaborate on ... Some kick-ass projects
+- 📫 How to reach me ... Email me @ josh.davidov@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... "i'm a fun guy" -kawhi leonard
+- ⚡ Fun fact: ... "I'm a fun guy." - Kawhi Leonard
 
 <!---
 mydkm/mydkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
