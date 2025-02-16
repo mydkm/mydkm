@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mydkm
 - 👀 I’m interested in ... alternative compression techniques for large-scale LLM's, green energy generation, controls
-- 🌱 I’m currently learning ... Mechanical Engineering
+- 🌱 I’m currently learning ... Mechanical Engineering, General Mathematics
 - 💞️ I’m looking to collaborate on ... Some kick-ass projects
 - 📫 How to reach me ... Email me @ josh.davidov@gmail.com
 - 😄 Pronouns: ... he/him
