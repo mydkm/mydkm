@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mydkm
-- 👀 I’m interested in ... alternative compression techniques for large-scale LLM's, green energy generation, controls
-- 🌱 I’m currently learning ... Mechanical Engineering, General Mathematics
-- 💞️ I’m looking to collaborate on ... Some kick-ass projects
-- 📫 How to reach me ... Email me @ josh.davidov@gmail.com
+- 👀 I’m interested in ... alternative compression techniques for large-scale LLM's, fusion energy, medtech
+- 🌱 I’m currently learning ... meche + math
+- 💞️ I’m looking to collaborate on ... some kick-ass projects
+- 📫 How to reach me ... email me @ josh.davidov@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... "I'm a fun guy." - Kawhi Leonard
 
