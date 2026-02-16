@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... some kick-ass projects
 - 📫 How to reach me ... email me @ josh.davidov@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... "I'm a fun guy." - Kawhi Leonard
 
 <!---
 mydkm/mydkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
