@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... alternative compression techniques for large-scale LLM's, fusion energy, medtech
 - 🌱 I’m currently learning ... meche + math
 - 💞️ I’m looking to collaborate on ... some kick-ass projects
-- 📫 How to reach me ... email me @ josh.davidov@gmail.com
+- 📫 How to reach me ... email me @ josh.davidov [at] gmail [dot] com
 - 😄 Pronouns: ... he/him
 
 <!---
